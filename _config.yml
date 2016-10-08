@@ -13,13 +13,12 @@ g_analytics: "UA-85393178-1"
 
 # language settings
 isolang: en
-close_btn: "Ausblenden"
-home_btn: "Startseite"
-projects_btn: "Projekte"
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
 posts_btn: "Posts"
 imprint_btn: "Impressum"
-name_badge: "Ein Artikel von"
-rss_badge: "Feed abbonieren!"
+name_badge: "Ashwin_nb"
 
 # build settings
 markdown: kramdown
