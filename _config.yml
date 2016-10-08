@@ -1,0 +1,30 @@
+title: "Ashwin Sidhalinganahalli"
+description: "Personal blog of Ashwin R S"
+about: "Hey! Ashwin here. I like coding, biking and videogames."
+location: "USA, Santa Monica"
+email: rsashwin@gmail.com
+baseurl: ""
+url: "http://ashwn.com"
+twitter_username: rsashwin
+github_username:  ashwinrs
+
+# google analytics tracking code, please change the value
+g_analytics: "UA-85393178-1"
+
+# language settings
+isolang: en
+close_btn: "Ausblenden"
+home_btn: "Startseite"
+projects_btn: "Projekte"
+posts_btn: "Posts"
+imprint_btn: "Impressum"
+name_badge: "Ein Artikel von"
+rss_badge: "Feed abbonieren!"
+
+# build settings
+markdown: kramdown
+
+# exclude files
+exclude:
+  - LICENSE
+  - README.md
