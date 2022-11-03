@@ -1,5 +1,5 @@
 # Site settings
-title: "Musings"
+title: "ThoughtLog"
 description: "A blog"
 baseurl: ""
 url: ""
@@ -17,5 +17,6 @@ disqus_shortname:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-coffeescript
 
 exclude: ["LICENSE", "README.md", "CNAME", "vendor", "Gemfile", "script"]
