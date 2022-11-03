@@ -1,9 +1,9 @@
 # Site settings
-title: ""
-description: "A simple blog"
-baseurl: "/textlog" # required if used under gh-pages branch, else (under master branch) just leave empty/blank
+title: "Musings"
+description: "A blog"
+baseurl: ""
 url: ""
-author: "John Doe"
+author: "Ashwin S"
 
 # Build settings
 kramdown:
