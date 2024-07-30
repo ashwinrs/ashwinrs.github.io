@@ -18,8 +18,6 @@
 // Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA
 // 02110-1301 USA
 //
-// Modified by:
-// Pieter Robberechts <http://github.com/probberechts>
 
 /*exported searchFunc*/
 var searchFunc = function(path, searchId, contentId) {
